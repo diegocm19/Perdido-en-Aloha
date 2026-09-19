@@ -1,4 +1,4 @@
-# Ruta A* - Perdido en Aloha
+# PAC-MAN
 
 Juego de laberinto estilo arcade inspirado en Pac-Man. Controla a Pac-Man, recoge los cinco puntos y escapa del fantasma mientras el algoritmo A* calcula las rutas mas cortas del tablero.
 
