@@ -17,6 +17,7 @@ El objetivo es recoger todos los puntos sin ser atrapado. Al completar la mision
 
 ## Requisitos
 
+- Tener instalado Visual Studio Code o Visual Studio para abrir y editar el proyecto.
 - Un navegador moderno con soporte para HTML5 Canvas y JavaScript.
 - No requiere Node.js, dependencias, servidor ni conexion a internet.
 - Funciona en escritorio y dispositivos moviles.
@@ -26,8 +27,9 @@ El objetivo es recoger todos los puntos sin ser atrapado. Al completar la mision
 ### Opcion 1: abrir directamente
 
 1. Descarga o clona este repositorio.
-2. Abre `index.html` con Chrome, Edge, Firefox o Safari.
-3. Empieza a jugar con las flechas, WASD o los botones en pantalla.
+2. Abre la carpeta del proyecto con Visual Studio Code o Visual Studio.
+3. Abre `index.html` con Chrome, Edge, Firefox o Safari.
+4. Empieza a jugar con las flechas, WASD o los botones en pantalla.
 
 ### Opcion 2: servidor local
 
